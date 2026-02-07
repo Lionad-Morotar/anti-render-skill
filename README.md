@@ -1,8 +1,8 @@
 # Anti-Render Skills
 
-本目录包含基于 `SKILL.md` 定义的 Agent Skill。
-
 Anti-Render 用于把任意领域图片转成“理想承诺 vs 残酷现实”的视觉叙事，支持三种输出：理想渲染 / 真实面貌 / 对比图。
+
+欢迎补充更多领域的 anti-render.json 或示例。也欢迎返图。
 
 ![Image1](public/1.jpg)
 ![Image2](public/2.jpg)
@@ -33,3 +33,7 @@ npx -y skills add Lionad-Morotar/anti-render-skill --skill anti-render
 ```
 
 配合旗舰模型或 Agent 使用最佳。以上几个示例使用 [Youmind](https://youmind.com/invite/7EEXEZ) 生成。
+
+## 返图区
+
+...
