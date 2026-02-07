@@ -31,3 +31,5 @@ npx -y skills add Lionad-Morotar/anti-render-skill --skill anti-render
 ```plaintext
 对这张图做极端对比...
 ```
+
+配合旗舰模型或 Agent 使用最佳。以上几个示例使用 [Youmind](https://youmind.com/invite/7EEXEZ) 生成。
