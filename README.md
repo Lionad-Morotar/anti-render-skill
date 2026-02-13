@@ -15,7 +15,7 @@ Anti-Render 用于把任意领域图片转成“理想承诺 vs 残酷现实”�
 如果你使用 `npx skills` 生态工具，可以指向本目录安装或列出技能：
 
 ```bash
-npx -y skills add Lionad-Morotar/anti-render-skill --skill anti-render
+npx skills add Lionad-Morotar/anti-render-skill
 ```
 
 ## 示例提示词
