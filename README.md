@@ -34,6 +34,12 @@ npx skills add Lionad-Morotar/anti-render-skill
 
 配合旗舰模型或 Agent 使用最佳。以上几个示例使用 [Youmind](https://youmind.com/invite/7EEXEZ) 生成。
 
+如果你在使用支持自动技能调用的客户端，也可以这样使用（注意 /prompt-to-image 需要自行实现）：
+
+```plaintext
+使用 /anti-render 技能生成 <路径> 这张图片的对比图，然后 /prompt-to-image
+```
+
 ## 返图区
 
 ...
